@@ -81,3 +81,16 @@ print("\n-----------------------------------------")
 
 print("\n-----------------------------------------")
 
+#Exercise - Life Calculator
+
+#Don't change the code below
+#-- age = input("What is your current age?\n:")
+#Don't change the code below
+
+#My solution code below 
+#-- end = 90 - int(age)
+#-- days = int(end) * 365
+#-- weeks = int(end) * 52
+#-- months = int(end) * 12
+
+#-- print(f"You have {days} days, {weeks} weeks, and {months} months left.")
