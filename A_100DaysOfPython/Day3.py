@@ -119,3 +119,35 @@ print("\n-----------------------------------------")
 # print(f"Your total bill is: {bill + add_bill}")
 
 print("\n-----------------------------------------")
+
+#Exercise - Love Calculator
+#Don't change the code below
+# score = 0
+# print("Welcome to the Love Calculator!")
+# name1 = input("What is your first name?: ")
+# name2 = input("What is their first name?: ")
+# #Don't change the code above
+
+# #My solution code 
+# combine = name1.lower() + name2.lower()
+
+# t = combine.count('t')
+# r = combine.count('r')
+# u = combine.count('u')
+# e = combine.count('e')
+# l = combine.count('l')
+# o = combine.count('o')
+# v = combine.count('v')
+# e = combine.count('e')
+
+# true_total = t + r + u + e
+# love_total = l + o + v + e
+
+# score = int(str(true_total) + str(love_total))
+
+# if score < 10 or score > 90:
+#     print(f"Your love score is {score}, you go together like coke and mentos.")
+# elif score >= 40 and score <= 50:
+#     print(f"Your score is {score}, you are alright together.")
+# else:
+#     print(f"Your score is {score}.")
